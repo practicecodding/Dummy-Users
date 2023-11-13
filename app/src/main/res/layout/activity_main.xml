@@ -50,6 +50,7 @@
                     android:listSelector="@android:color/transparent"
                     android:scrollbars="none"
                     />
+
             </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
         </LinearLayout>
